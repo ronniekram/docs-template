@@ -1,5 +1,7 @@
 # Starlight Starter Kit: Basics
 
+[Clerk Docs](https://clerk.com/docs/references/astro/clerk-middleware?_gl=1*upbur5*_gcl_au*MjE5MDE1MDY5LjE3MzI2OTA2NDk.*_ga*MzA0Mjk2NjE4LjE3MzI2OTA3NDU.*_ga_1WMF5X234K*MTczMjY5MDc0NS4xLjEuMTczMjY5MDc3Ny4wLjAuMA..)
+
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 ```
